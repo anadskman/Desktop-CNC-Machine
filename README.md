@@ -161,3 +161,5 @@ Estimated cost:
 
 ## Gallery
 
+<img width="1758" height="1654" alt="CNC Machine" src="https://github.com/user-attachments/assets/05b2bf74-63ab-45e9-8d6c-2739327ba176" />
+<img width="733" height="633" alt="Screenshot 2026-06-02 144624" src="https://github.com/user-attachments/assets/d7fc8e90-243f-4a7b-aed2-5c2eae3defda" />
