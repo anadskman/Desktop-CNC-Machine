@@ -132,20 +132,15 @@ Several improvements were made throughout development:
 
 ## Bill of Materials
 
-Main components:
-
-* T8 Leadscrews
-* T8 Nuts
-* Leadscrew Couplers
-* 8mm Smooth Rods
-* SCS8UU Bearings
-* NEMA 17 Stepper Motors
-* Arduino Uno
-* CNC Shield
-* Stepper Drivers
-* Endstops
-* 2020 Aluminium Extrusion
-* 775 Spindle Motor
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+|---|---|---|---|---|---|
+| t8 leadscrew nut 4pc | connects carriage to leadscrew | 1 | 5.62 | https://www.aliexpress.com/item/1005007188421437.html?aem_p4p_detail=202606010645565259910943250180003872754&pdp_ext_f=%7B"order"%3A"180"%2C"spu_best_type"%3A"price"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&search_p4p_id=202606010645565259910943250180003872754_1 | aliexpress |
+| 5pc endstops | stops the carriage from moving too far | 1 | 4.77 | https://www.aliexpress.com/item/1005008178660096.html?pdp_ext_f=%7B"order"%3A"125"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D | Aliexpress |
+| t8 Leadscrews 250mm | Leadscrews | 2 | 5.91 | https://www.aliexpress.com/item/1005010726899970.html?mp=1&pdp_npi=6%40dis%21EUR%21EUR%205.08%21EUR%204.68%21%21EUR%204.58%21%21%21%400b88ab7917803206163526940e11a2%2112000053328707185%21ct%21IE%212650473942%21%212%210%21 | Aliexpress |
+| t8 Leadscrew 100mm | Leadscrew | 1 | 3.70 | https://www.aliexpress.com/item/1005010726899970.html?mp=1&pdp_npi=6%40dis%21EUR%21EUR%203.18%21EUR%202.95%21%21EUR%202.89%21%21%21%400b88ab7917803206163526940e11a2%2112000053328707182%21ct%21IE%212650473942%21%211%210%21 | Aliexpress |
+| Leadscrew Clamps | connects the motor to the leadscrews | 1 | 7.93 | https://www.aliexpress.com/item/1005007820393080.html?mp=1&pdp_npi=6%40dis%21EUR%21EUR%206.81%21EUR%206.81%21%21EUR%206.81%21%21%21%400b88ab7917803206163526940e11a2%2112000042324936325%21ct%21IE%212650473942%21%211%210%21 | Aliexpress |
+| Linear Bearings | Moves long the smooth rods | 1 | 6.45 | https://www.aliexpress.com/item/1005004108098706.html?mp=1&pdp_npi=6%40dis%21EUR%21EUR%205.54%21EUR%205.37%21%21EUR%205.37%21%21%21%400b5e1a3817803199448123969e1126%2112000028059680070%21ct%21IE%212650473942%21%211%210%21 | Aliexpress |
+| 8mm Ball Bearings 10pc | Lets the leadscrews rotate | 1 | 2.11 | https://www.aliexpress.com/item/1005011548989882.html?mp=1&pdp_npi=6%40dis%21EUR%21EUR%201.81%21EUR%201.60%21%21EUR | Aliexpress |
 
 Estimated cost:
 **$180 - $210 USD**
